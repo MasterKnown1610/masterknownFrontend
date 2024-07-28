@@ -5,6 +5,7 @@ import icon3 from '../../assets/Picture2.png'
 import icon4 from '../../assets/Picture1.png'
 
 
+
 const Tech = () => {
   return (
     <div className='tech-container'>
