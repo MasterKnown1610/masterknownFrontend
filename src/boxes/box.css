@@ -1,0 +1,22 @@
+.boxes{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 20px;
+    
+}
+
+
+.top-heading{
+    text-align: center;
+}
+.webbox{
+    width: 30%;
+}
+.appbox{
+    width: 30%;
+}
+
+.techbox{
+    width: 30%;
+}

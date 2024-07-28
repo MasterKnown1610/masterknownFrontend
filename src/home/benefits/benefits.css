@@ -1,0 +1,31 @@
+.benefits-container{
+    display: flex;
+    margin:60px 0px 60px 30px;
+    
+}
+
+.p1{
+    margin: 10px;
+    margin-bottom: px;
+    width: 30%;
+
+}
+
+.services h2{
+    font-size: 50px;
+    width: 500px;
+    margin-bottom: 0px;
+}
+
+.points{
+    background-color: rgb(200, 227, 236);
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-color:white;
+    color: grey;
+    padding: 20px;
+}
+
+.p{
+    margin-right: 10px;
+}

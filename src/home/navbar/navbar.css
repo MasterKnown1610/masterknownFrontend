@@ -1,0 +1,37 @@
+.navbar-container{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    padding: 5px 5px;
+    margin: 5px 20px;
+  
+}
+
+.img10{
+    width:5%;
+    height: 100%;
+   
+}
+
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type:none;
+    width: 600px;
+    margin: 5px;
+    border: 0px;
+}
+
+.socialmedia{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100px;
+}
+
+.button{
+    border-radius: 300px;
+}
+
+.symbols{
+    display: flex;
+}

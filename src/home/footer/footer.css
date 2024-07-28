@@ -1,0 +1,22 @@
+.img9{
+    width:10%;
+}
+
+.footer-container{
+    display: flex;
+}
+.img-div{
+   
+    width: 380px;
+    height: 300px;
+}
+
+.information{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+
+
